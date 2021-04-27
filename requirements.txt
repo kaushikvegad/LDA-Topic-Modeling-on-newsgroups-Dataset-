@@ -1,0 +1,6 @@
+gensim
+numpy
+pandas
+spacy
+pyLDAvis
+matplotlib
